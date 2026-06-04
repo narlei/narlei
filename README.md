@@ -14,7 +14,9 @@
 ### 🚀 About me
 
 - 📱 iOS Engineer passionate about building software that makes everyday life simpler
-- 🏗️ Into modular architectures, build systems and developer productivity (Tuist, Buck, Clean Architecture)
+- 🛠️ Working on **Mobile Platform** — scaling tooling and infrastructure for mobile teams
+- 🤖 Building **AI tools for developers** to boost productivity
+- 🏗️ Into modular architectures, build systems and developer productivity (Tuist, Bazel, Buck, Clean Architecture)
 - ✍️ I write about iOS, dev tools and build systems on [narlei.com](https://narlei.com)
 - 🎤 I enjoy public speaking for developers
 - 📫 Reach me at **contato@narlei.com**
@@ -29,6 +31,7 @@
   <img src="https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white" alt="Objective-C"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode"/>
   <img src="https://img.shields.io/badge/Tuist-624FE8?style=flat-square&logo=tuist&logoColor=white" alt="Tuist"/>
+  <img src="https://img.shields.io/badge/Bazel-43A047?style=flat-square&logo=bazel&logoColor=white" alt="Bazel"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Fastlane-22C55E?style=flat-square&logo=fastlane&logoColor=white" alt="Fastlane"/>
   <img src="https://img.shields.io/badge/Zsh-1A1A1A?style=flat-square&logo=gnu-bash&logoColor=white" alt="Zsh"/>
@@ -40,23 +43,12 @@
 
 | Project | Description |
 | --- | --- |
+| [**SmartShop**](https://github.com/narlei/SmartShop) | 🛍️ A sample project that teaches how to use **Tuist** to build a fully modularized iOS app |
+| [**ulanzideck_claude**](https://github.com/narlei/ulanzideck_claude) | 🤖 Display your Claude Code subscription usage right on your Ulanzi Deck |
+| [**logitech_action_claudecode**](https://github.com/narlei/logitech_action_claudecode) | 🎛️ A Logitech action plugin to control Claude Code from your devices |
 | [**CardScanner**](https://github.com/narlei/CardScanner) | 💳 A credit card scanner for iOS |
-| [**SmartShop**](https://github.com/narlei/SmartShop) | 🛍️ Scalable iOS structure with feature modularization using Tuist + Clean Architecture |
 | [**DMInject**](https://github.com/narlei/DMInject) | 💉 A lightweight Dependency Manager to keep your code clean and productive |
 | [**buckstartersample**](https://github.com/narlei/buckstartersample) | 🔨 A starter to understand changing your iOS build system with Buck |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=narlei&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Narlei's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narlei&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narlei&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
 
 ---
 
