@@ -44,6 +44,7 @@
 | Project | Description |
 | --- | --- |
 | [**SmartShop**](https://github.com/narlei/SmartShop) | 🛍️ A sample project that teaches how to use **Tuist** to build a fully modularized iOS app |
+| [**ClaudeCodeNotify**](https://github.com/narlei/claudecodenotify) | 🔔 A macOS menu bar app that pops a floating notification when Claude Code needs your attention |
 | [**ulanzideck_claude**](https://github.com/narlei/ulanzideck_claude) | 🤖 Display your Claude Code subscription usage right on your Ulanzi Deck |
 | [**logitech_action_claudecode**](https://github.com/narlei/logitech_action_claudecode) | 🎛️ A Logitech action plugin to control Claude Code from your devices |
 | [**CardScanner**](https://github.com/narlei/CardScanner) | 💳 A credit card scanner for iOS |
