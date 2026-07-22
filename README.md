@@ -43,6 +43,7 @@
 
 | Project | Description |
 | --- | --- |
+| [**Ulanzi Community Store**](https://github.com/narlei/ulanzicommunitystore) | 🔌 The community plugin store for Ulanzi Deck & Dial — discover, install, and update community plugins in one click. |
 | [**SmartShop**](https://github.com/narlei/SmartShop) | 🛍️ A sample project that teaches how to use **Tuist** to build a fully modularized iOS app |
 | [**ClaudeCodeNotify**](https://github.com/narlei/claudecodenotify) | 🔔 A macOS menu bar app that pops a floating notification when Claude Code needs your attention |
 | [**ulanzideck_claude**](https://github.com/narlei/ulanzideck_claude) | 🤖 Display your Claude Code subscription usage right on your Ulanzi Deck |
